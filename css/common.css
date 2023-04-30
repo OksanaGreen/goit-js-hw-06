@@ -27,4 +27,6 @@ button {
   flex-direction: column-reverse;
   justify-content: center;
   align-items: center;
+  text-decoration: none;
+  list-style: none;
 }
