@@ -10,6 +10,5 @@ function onSubmit(event) {
     return;
   }
   console.log({ formEmail, formPassword });
-  alert("Information sent");
   form.reset();
 }
